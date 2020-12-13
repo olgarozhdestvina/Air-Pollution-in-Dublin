@@ -1,19 +1,21 @@
-# Air Pollution in Dublin
-### [Programming for Data Analysis Module GMIT 2020]
+## Air Pollution in Dublin
+#### [Programming for Data Analysis Module GMIT 2020]
 
-<img align="left" width="250" height="120" src="https://s.clipartkey.com/mpngs/s/326-3267185_car-in-a-polluted-city-pollution-air-cartoon.png">
-
-<br><br><br><br><br>
-
-
-The repository contains an investigation into Dublin air quality.
-  - 
-  - 
-  - 
-  - 
-
+<img width="250" src="https://png.pngtree.com/png-vector/20200407/ourmid/pngtree-hand-drawn-air-pollution-due-to-coronavirus-and-women-using-masks-png-image_2177011.jpg">
 
 <br>
+
+
+The repository contains an simulation of Air pollution in Dublin for a period from 7th December 2020 to 31st January 2021.
+
+
+The project has the following features:
+ * Real air pollution data with 192 data points across eight variables.
+ * Investigation of the types of variables involved, their likely distributions, and their relationships with each other.
+ * Simulated data set as closely matching the real data.
+
+<br>
+
 
 *Submitted by:* Olga Rozhdestvina (Student No: G00387844) 
 
@@ -31,7 +33,7 @@ Applications used for completion of the assignment: [The Jupyter Notebook](https
 
 Python distribution: [Anaconda Python distribution](https://www.anaconda.com/).
 
-Libraries used in the Jupyter Notebook: [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/). All of these are installed with the Anaconda Python distribution.
+Libraries used in the Jupyter Notebook: [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [SciPy](https://docs.scipy.org/doc/scipy/reference/index.html). All of these are installed with the Anaconda Python distribution.
 
 
 ---
