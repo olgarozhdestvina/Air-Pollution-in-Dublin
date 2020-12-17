@@ -45,20 +45,9 @@ Libraries used in the Jupyter Notebook: [NumPy](https://numpy.org/), [Pandas](ht
 1. Make sure that you have Python installed
 2. Download or clone current repository "Air-Pollution-in-Dublin"
 3. Open Command Interpreter and get into correct directory
-4. Run __python -m venv venv__ to make a virtual environment.
-5. Activate venv by running:
-
-    * Windows:
-    ```bash
-    .\venv\Scripts\activate.bat
-    ```
-    * Linux:
-    ```bash
-    source venv/bin/activate
-    ```
-6. Install packages by running __pip install -r requirements.txt__
-7. Run Jupyter notebook
-8. On the home page of opened Jupyter server select Dublin_Air_Pollution.ipynb
+4. Install packages by running __pip install -r requirements.txt__
+5. Run Jupyter notebook
+6. On the home page of opened Jupyter server select Dublin_Air_Pollution.ipynb
 
 
 ---
