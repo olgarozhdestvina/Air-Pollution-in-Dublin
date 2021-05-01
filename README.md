@@ -1,13 +1,12 @@
 ## Air Pollution in Dublin
-#### [Programming for Data Analysis Module GMIT 2020]
+### [Programming for Data Analysis Module GMIT 2020]
 
 <img width="250" src="https://png.pngtree.com/png-vector/20200407/ourmid/pngtree-hand-drawn-air-pollution-due-to-coronavirus-and-women-using-masks-png-image_2177011.jpg">
 
 <br>
 
 
-The repository contains an simulation of Air pollution in Dublin for a period from 7th December 2020 to 31st January 2021.
-
+The repository contains Air pollution data simulation in Dublin for a period from 7th December 2020 to 31st January 2021.
 
 The project has the following features:
  * Real air pollution data with 192 data points across eight variables.
@@ -27,7 +26,7 @@ The project has the following features:
 ---
 
 
-### Set up
+#### Set up
 
 Applications used for completion of the assignment: [The Jupyter Notebook](https://jupyter.org/) and [cmder](http://cmder.net/)
 
@@ -39,7 +38,7 @@ Libraries used in the Jupyter Notebook: [NumPy](https://numpy.org/), [Pandas](ht
 ---
 
 
-###  How to run the code
+####  How to run the code
 
 
 1. Make sure that you have Python installed
@@ -53,6 +52,6 @@ Libraries used in the Jupyter Notebook: [NumPy](https://numpy.org/), [Pandas](ht
 ---
 
 
-### License
+#### License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
